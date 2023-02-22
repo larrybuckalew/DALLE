@@ -1,0 +1,6 @@
+OPENAI_API_KEY ="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"
+MONGODB_URL ="mongodb+srv://larrybuckalew:Michelle09$@cluster0.hgnzle5.mongodb.net/?retryWrites=true&w=majority"
+
+CLOUDINARY_CLOUD_NAME="dl5rqcrze"
+CLOUDINARY_API_KEY="711342486917994"
+CLOUDINARY_CLOUD_SCCRET="HUzkbQpaNeAvdkwuPfmy1C0v6mc"
